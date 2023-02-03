@@ -1,0 +1,23 @@
+->HTML: HYPER TEXT MARKUP LANGUAGE
+
+Required Softwars:Opensource
+1.Editors: To write The Code
+	->Notepad
+	->notepad++(i Prefer)
+	->Vs Code=> Visuval Studio Code(i Prefer)
+	->Sublime TEXT
+	->Brackts
+	->Atom
+	->Web Strome
+	.
+	.
+	.
+2.Broswers: To See the output
+	->Google Chrome(I Prefer)
+	->Firefox
+	->Safari
+	->Opera
+	->Edge
+	->Internet Explorer(IE)
+3.Winrar
+	->Winrar

@@ -1,0 +1,24 @@
+Tags:
+
+double Tags
+Ex:-
+html,head,body,title,h1-h6,p
+
+<title>Content</title>
+
+Single Tags
+<img /> =>Empty Tags
+
+
+Attributs:To give Extra information to the Tag
+syntax: name="value"
+->with in Open Tags
+-> give one single space to eath attributes
+->We write Many Attributes in Open Tag
+
+
+Elements 2 Types:
+1.inline Elements(Two-Two)
+Side by side
+2.Block Leveal Elements
+one by one
